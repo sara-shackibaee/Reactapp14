@@ -1,0 +1,13 @@
+.mydiv{
+    width: auto;
+    height: 500;
+    background-color:darkkhaki ;
+    text-align: left;
+
+}
+button{
+    position: "center";
+    background-color:gold;
+    width: 300;
+    height: 300;
+}
